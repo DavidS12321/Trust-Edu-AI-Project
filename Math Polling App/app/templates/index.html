@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" href="/static/style.css">
+    <title>AI Math Polling App</title>
+</head>
+<body>
+    <h1>2nd Grade AI Math Polling App</h1>
+    
+    <div id="question-box">
+        <p id="question">{{ question }}</p>
+    </div>
+    
+    <form id="poll-form" method="POST" action="/submit">
+
+        <div id="options" class="grid">
+            {% for option in options %}
+                <button type="button" class="option" data-answer="{{ option }}">{{ option }}</button>
+            {% endfor %}
+        </div>
+        
+        <input type="hidden" name="correct_answer" value="{{ correct_answer }}">
+        <input type="hidden" name="selected_answer" id="selected-answer" value="">
+    </form>
+
+    <div id="results">
+        <p id="feedback"></p>
+    </div>    
+    
+    <script src="/static/script.js"></script>
+</body>
+</html>

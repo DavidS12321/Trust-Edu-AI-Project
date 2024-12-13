@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Poll Results</title>
+</head>
+<body>
+    <h1>Poll Results</h1>
+    
+    <p>You answered {{ correct_count }} out of {{ total_count }} questions correctly.</p>
+
+    <p>Percentage: {{ percentage }}%</p>
+
+    <a href="{{ url_for('main.home') }}">Start New Poll</a>
+</body>
+</html>
