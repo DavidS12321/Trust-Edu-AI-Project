@@ -1,6 +1,6 @@
 # AI-Based Polling App: 2nd Grade Math Questions
 
-**Email for Professor in case this is read first:** 
+**Message for Dr. Sun in case this is read before his email:** 
 
 Dear Dr. Sun, 
 
