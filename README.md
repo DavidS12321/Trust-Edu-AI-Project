@@ -20,7 +20,6 @@ David Shahi
 ---
 
 ## Project Description
-
 This project is an AI-based app designed to teach students through polling to improve their second-grade math skills. The app generates math questions that start at an easy level and gradually increase in difficulty as the user answers questions correctly.
 
 ### Key Features:
@@ -29,7 +28,6 @@ This project is an AI-based app designed to teach students through polling to im
 - **User Feedback:** Users receive immediate feedback to see if they got the question right or wrong.
   
 ## What I Learned
-
 - **Flask Web Development:** I gained experience in developing a full-stack web application using Flask, I learned how to handle routes, templates, and user interactions effectively.
 - **OpenAI API Integration:** I worked with the OpenAI API to generate dynamic math questions and handle user input.
 - **Problem Solving & Debugging:** I honed my ability to debug and troubleshoot issues in both the backend code and the integration with the OpenAI API.
@@ -41,8 +39,5 @@ While I encountered a number of challenges during the development of this projec
 This issue prevented me from demonstrating a fully functional version of the app, as the OpenAI API is critical for generating math questions. I attempted to resolve the issue by reaching out to OpenAI's support team, but the responses I received were largely automated and unhelpful, which further delayed my progress. Unfortunately, this meant that I was unable to create a working demo of the app in time for submission.
 
 ## Future Improvements
-
-While the app is currently functional to a basic degree, there are several areas for future improvement, including:
-
 - **Enhanced Question Variety:** Adding a broader range of question types, reaching to other grade level mathematics.
 - **User Profiles:** Implementing user authentication so that each user can track their progress and performance over time.
