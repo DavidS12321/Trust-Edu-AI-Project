@@ -30,9 +30,9 @@ This project is an AI-based app designed to teach students through polling to im
 - **User Feedback:** Users receive immediate feedback to see if they got the question right or wrong.
   
 ## What I Learned
-- **Flask Web Development:** I gained experience in developing a full-stack web application using Flask, I learned how to handle routes, templates, and user interactions effectively.
+- **Flask Web Development:** I was able to improve my experience in full-stack web development by using Flask.
 - **OpenAI API Integration:** I worked with the OpenAI API to generate dynamic math questions and handle user input.
-- **Problem Solving & Debugging:** I honed my ability to debug and troubleshoot issues in both the backend code and the integration with the OpenAI API.
+- **Problem Solving & Debugging:** I improved my ability to debug and troubleshoot issues in the backend and the integration with the OpenAI API.
 
 ## Challenges
 
