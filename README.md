@@ -5,6 +5,7 @@
 Dear Dr. Sun, 
 
 I hope this email finds you well. I am reaching out to explain an issue I have encountered while working on the final stages of my senior project, which is an AI-based polling app that generates second-grade math questions and adjusts difficulty based on user accuracy.  
+
 Unfortunately, despite being on a paid OpenAI plan and confirming multiple times that I am under the API usage limits, I have been experiencing persistent issues with the OpenAI API. Specifically, I am receiving errors indicating that I have exceeded my quota, even though I have verified that this is not the case. I have already made the payment for the API usage, and I am still encountering these errors after several attempts to resolve the issue.  
 
 I have been trying to reach OpenAI’s support team for assistance, but the responses I have received have been unhelpful and automated. This has left me in a situation where I am unable to show a working demo of my app, as it relies heavily on OpenAI's API for generating and responding to the math questions.  
